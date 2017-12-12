@@ -1,0 +1,14 @@
+it was easy to see what had been modified
+
+2. I can see differences? dunno
+
+3. Pros: more freedom
+   Cons: takes more time
+
+4. Cuz Git is for programmers
+
+5. I can type git log to see my files history, then
+   just use git diff id1 id2 to compare the files. The Ids
+   correspond to the IDs of each commit
+
+6. I can always come back to a previous version of my code and restore that
