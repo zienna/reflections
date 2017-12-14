@@ -1,2 +1,6 @@
 1. When wanna have a backup for your work
 2. in case I don't want to make somethign public
+3. forks - copies or remotes on GitHub. Do it if don't have permission to push to another repo
+    on GitHub online
+   clones - copy of a repository taken from a URL
+   branches - ramification from master branch for experiments and stuff
